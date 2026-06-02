@@ -17,7 +17,7 @@ if total_toys >= 50:
 
 total_sum = total_sum - total_sum * 0.1
 
-if total_toys >= holiday_price:
-    print(f'Yes! {total_toys - holiday_price:.2f} lv left.')
+if total_sum >= holiday_price:
+    print(f'Yes! {total_sum - holiday_price:.2f} lv left.')
 else:
     print(f'Not enough money! {holiday_price - total_sum:.2f} lv needed.')

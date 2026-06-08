@@ -8,4 +8,11 @@ elif n < 0:
     elif -1000000 <= n <= -1:
         print("negative")
     else:
-        print("large positive")
+        print("large negative")
+else:
+    if 0 < n <= 1:
+        print('small positive')
+    elif 1 < n < 1000000:
+        print('positive')
+    else:
+        print('large positive')

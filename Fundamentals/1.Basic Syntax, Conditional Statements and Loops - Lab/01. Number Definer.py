@@ -1,18 +1,18 @@
 n = float(input())
 
 if n == 0:
-    print("0")
+    print("zero")
 elif n < 0:
-    if -1 <= n < 0:
+    if -1 < n:
         print("small negative")
-    elif -1000000 <= n <= -1:
-        print("negative")
-    else:
+    elif n < -1000000:
         print("large negative")
-else:
-    if 0 < n <= 1:
-        print('small positive')
-    elif 1 < n <= 1000000:
-        print('positive')
     else:
+        print("negative")
+else:
+    if 0 < n < 1:
+        print('small positive')
+    elif n > 1000000:
         print('large positive')
+    else:
+        print('positive')

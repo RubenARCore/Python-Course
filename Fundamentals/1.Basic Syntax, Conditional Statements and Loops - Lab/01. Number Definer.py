@@ -12,7 +12,7 @@ elif n < 0:
 else:
     if 0 < n <= 1:
         print('small positive')
-    elif 1 < n < 1000000:
+    elif 1 < n <= 1000000:
         print('positive')
     else:
         print('large positive')

@@ -5,5 +5,7 @@ if n == 0:
 elif n < 0:
     if -1 <= n < 0:
         print("small negative")
-    else:
+    elif -1000000 <= n <= -1:
         print("negative")
+    else:
+        print("large positive")

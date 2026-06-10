@@ -1,5 +1,6 @@
 n = int(input())
-for i in range(1, n + 1):
-    sum_ = 0
 
-while 
+for i in range(1, n + 1):
+    digit_sum = sum(int(d) for d in str(i))
+    is_special = digit_sum in (5, 7, 11)
+    print(f"{i} -> {is_special}")

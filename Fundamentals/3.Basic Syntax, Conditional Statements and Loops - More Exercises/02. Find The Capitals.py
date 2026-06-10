@@ -1,14 +1,8 @@
-data = input()
-counter = 0
-print(f'[', end='')
-for i, char in enumerate(data):
-    if i == len(data) - 1:
-        print(i, end='')
-        break
-    elif char.isupper():
-        print(f'{i}', end=', ')
+command = input()
+index = []
 
+for i in range(len(command)):
+    if command[i].isupper():
+        index.append(i)
 
-print(']')
-
-
+print(index)

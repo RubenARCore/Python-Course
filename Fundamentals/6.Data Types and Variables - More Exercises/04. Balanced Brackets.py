@@ -1,21 +1,24 @@
 n = int(input())
 
-balance = 0
 is_balanced = True
+open_bracket = False
 
 for _ in range(n):
-    char = input()
+    line = input()
 
-    if char == '(':
-        balance += 1
-    elif char == ')':
-        balance -= 1
+    if line == '(':
+        if open_bracket:
+            is_balanced = False
+            break
+        open_bracket = True
 
-    if balance < 0:
-        is_balanced = False
-        break
+    elif line == ')':
+        if not open_bracket:
+            is_balanced = False
+            break
+        open_bracket = False
 
-if balance != 0:
+if open_bracket:
     is_balanced = False
 
 print("BALANCED" if is_balanced else "UNBALANCED")

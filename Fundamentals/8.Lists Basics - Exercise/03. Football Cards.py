@@ -4,6 +4,7 @@ counter_a = 11
 counter_b = 11
 team_a_players = []
 team_b_players = []
+checker = True
 
 for i in range(len(input_list)):
     control_list = input_list[i].split("-")
@@ -21,8 +22,14 @@ for i in range(len(input_list)):
     if counter_a < 7:
         print(f'Team A - {counter_a}; Team B - {counter_b}')
         print(f'Game was terminated')
+        checker = False
         break
     elif counter_b < 7:
         print(f'Team A - {counter_a}; Team B - {counter_b}')
         print(f'Game was terminated')
+        checker = False
         break
+
+if checker:
+    print(f'Team A - {counter_a}; Team B - {counter_b}')
+

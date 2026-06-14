@@ -1,18 +1,25 @@
 gifts = input().split(" ")
-command = None
+command = input().split(" ")
 
-while command != "No Money":
+while command[0] != "No":
+
+
+    if command[0] == "OutOfStock":
+        while command[1] in gifts:
+            gifts[gifts.index(command[1])] = "None"
+
+    elif command[0] == "Required":
+        if 0 < int(command[2]) < len(gifts):
+            gifts[int(command[2])] = command[1]
+
+    elif command[0] == "JustInCase":
+        gifts[len(gifts)-1] = command[1]
 
     command = input().split(" ")
 
-    if command[0] == "OutOfStock":
-       index_none = gifts.index(command[1])
-       gifts[index_none] = "None"
+while "None" in gifts:
 
-    elif command[0] == "Required":
-        pass
-    elif command[0] == "JustInCase":
-        pass
+    gifts.remove("None")
 
-
+print(" ".join(gifts))
 

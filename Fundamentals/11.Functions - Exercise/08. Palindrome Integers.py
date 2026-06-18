@@ -1,8 +1,10 @@
-n = list(map(int, input().split(", ")))
+n = input().split(", ")
+result_list = []
+for i in range(0, len(n)):
 
-def palindrome_integer(n_):
+    reversed_n = list(reversed(n[i]))
 
-    breakpoint()
-    for i in range(len(n_)):
-        if n_[i] == list(reversed(n_[i])):
-            pass
+    if list(n[i]) == list(reversed_n):
+        print("True")
+    else:
+        print("False")

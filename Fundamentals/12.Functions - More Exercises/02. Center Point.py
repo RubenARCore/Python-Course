@@ -1,17 +1,21 @@
-numbers = []
-for _ in range(4):
-    numbers.append(float(input()))
+import math
 
-def center_point(p):
-    x1, y1, x2, y2 = p
+x1 = float(input())
+y1 = float(input())
+x2 = float(input())
+y2 = float(input())
 
-    d1 = x1**2 + y1**2
-    d2 = x2**2 + y2**2
+def closest_point(x1, y1, x2, y2):
+    d1 = x1 * x1 + y1 * y1
+    d2 = x2 * x2 + y2 * y2
 
     if d1 <= d2:
-        return int(x1), int(y1)
-    return int(x2), int(y2)
+        x, y = x1, y1
+    else:
+        x, y = x2, y2
 
-x, y = center_point(numbers)
+    return math.floor(x), math.floor(y)
+
+x, y = closest_point(x1, y1, x2, y2)
 
 print(f'({x}, {y})')

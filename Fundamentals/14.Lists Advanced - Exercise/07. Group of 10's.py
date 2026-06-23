@@ -1,6 +1,6 @@
 data = list(map(int, input().split(", ")))
 result = []
-start_point = 1
+start_point = 0
 
 if data[-1] % 10 == 0:
     range_ = (data[-1] // 10) + 1
@@ -10,7 +10,7 @@ else:
 for i in range(1, range_):
 
     end_point = i * 10
-    current = [x for x in data if start_point <= x <= end_point]
+    current = [x for x in data if start_point < x <= end_point]
     start_point, end_point = end_point, start_point
     result.append(current)
 

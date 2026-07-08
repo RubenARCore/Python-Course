@@ -22,7 +22,7 @@ for i in range(n):
     else:
         if data[1] not in registered:
             print(f"ERROR: user {name} not found")
-            
+
         else:
             print(f"{name} unregistered successfully")
             registered.pop(name)

@@ -8,8 +8,7 @@ for i in range(n):
     composer = data[1]
     key = data[2]
 
-    composes[piece] = [composer, key]
-
+    composes[composer] = [piece, key]
 
 while True:
     data = input()
@@ -18,4 +17,5 @@ while True:
 
     data = data.split("|")
 
-    
+
+

@@ -23,23 +23,37 @@ while True:
     if data[0] == "Rate":
         data = data[1].split(" - ")
         name = data[0].strip()
+
+        if name not in plants:
+            print("error")
+            continue
+
         rating = int(data[1])
         plants[name]["ratings"].append(rating)
 
     elif data[0] == "Update":
         data = data[1].split(" - ")
         name = data[0].strip()
+
+        if name not in plants:
+            print("error")
+            continue
+
         rarity = int(data[1])
         plants[name]["rarity"] = rarity
 
     elif data[0] == "Reset":
         data = data[1].split(" - ")
         name = data[0].strip()
+
+        if name not in plants:
+            print("error")
+            continue
+
         plants[name]["ratings"].clear()
 
 print("Plants for the exhibition:")
 
-
 for name, data in plants.items():
-    rating = sum(data["ratings"]) / (len(data["ratings"]) or 1)
-    print(f"- {name}; Rarity: {data['rarity']}; Rating: {rating:.2f}")
+    rating = sum(plants[name]["ratings"]) / (len(plants[name]["ratings"]) or 1)
+    print(f"- {name}; Rarity: {plants[name]['rarity']}; Rating: {rating:.2f}")

@@ -11,9 +11,9 @@ for i in range(n):
     pumps.append(data)
 
 while True:
-    tank += pumps[0][0]
-    if tank >= pumps[0][1]:
-        tank -= pumps[0][1]
+    tank += pumps[length_counter][0]
+    if tank >= pumps[length_counter][1]:
+        tank -= pumps[length_counter][1]
         length_counter += 1
         if length_counter == len(pumps):
             break

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bda7e60e-e7d0-45f6-9dbb-b3dfef5fc216" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RubenARCore&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RubenARCore/Python-Course.git&quot;,
+    &quot;accountId&quot;: &quot;736dfd1b-c23a-4d7f-9f78-0f8cf5793751&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000010350069637" />
+      <entry key="MS500" value="1.1006905394877289" />
+      <entry key="S2" value="1.5707753491769518" />
+      <entry key="S5" value="1.9359287997940169" />
+      <entry key="S10" value="2.278841602090152" />
+      <entry key="S30" value="3.2609597255265372" />
+      <entry key="S60" value="4.660408498199661" />
+      <entry key="M2" value="7.373277660185512" />
+      <entry key="M5" value="13.240661126776082" />
+      <entry key="M10" value="17.451622255822617" />
+      <entry key="M15" value="19.335630817237334" />
+      <entry key="M30" value="22.54500533604734" />
+      <entry key="H1" value="32.01380497855116" />
+      <entry key="H2" value="52.31614935849864" />
+      <entry key="H4" value="77.92771107941348" />
+      <entry key="D1" value="240.2546954672422" />
+      <entry key="W1" value="469.21405245591217" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0931770348962894E-243" />
+      <entry key="MS500" value="2.5570434039419594E-49" />
+      <entry key="S2" value="7.111062979025465E-13" />
+      <entry key="S5" value="1.3828459752549283E-5" />
+      <entry key="S10" value="0.003718711371235683" />
+      <entry key="S30" value="0.16067657520360393" />
+      <entry key="S60" value="0.5028699994824913" />
+      <entry key="M2" value="1.136136175543868" />
+      <entry key="M5" value="2.2350817607217515" />
+      <entry key="M10" value="2.9433472582716185" />
+      <entry key="M15" value="3.250925741305983" />
+      <entry key="M30" value="3.8060770585137327" />
+      <entry key="H1" value="5.800321362790435" />
+      <entry key="H2" value="10.328765186177705" />
+      <entry key="H4" value="16.019456224775737" />
+      <entry key="D1" value="43.76290145807934" />
+      <entry key="W1" value="76.8380318553995" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0038524718244231124" />
+      <entry key="MS500" value="0.34160240476282083" />
+      <entry key="S2" value="1.0996538829292366" />
+      <entry key="S5" value="1.6783578296203128" />
+      <entry key="S10" value="2.134202252345666" />
+      <entry key="S30" value="3.340160512018086" />
+      <entry key="S60" value="5.096923487756938" />
+      <entry key="M2" value="8.45562740791871" />
+      <entry key="M5" value="15.438587834826002" />
+      <entry key="M10" value="20.370954131943307" />
+      <entry key="M15" value="22.568928513322568" />
+      <entry key="M30" value="26.340801133402973" />
+      <entry key="H1" value="37.80663896823092" />
+      <entry key="H2" value="62.63867440691247" />
+      <entry key="H4" value="93.94243351552682" />
+      <entry key="D1" value="284.01484482869273" />
+      <entry key="W1" value="546.0513232401778" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3J59eGUxS9NpI0fWUaZgp9T2qW2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01_reverse_numbers.executor": "Run",
+    "Python.01_reverse_strings.executor": "Run",
+    "Python.02_matching_parentheses.executor": "Run",
+    "Python.02_stacked_queries.executor": "Run",
+    "Python.03_fast_food.executor": "Run",
+    "Python.03_supermarket.executor": "Run",
+    "Python.04_bashion_boutique.executor": "Run",
+    "Python.04_water_dispenser.executor": "Debug",
+    "Python.05_hot_potato.executor": "Run",
+    "Python.05_truck_tour.executor": "Run",
+    "Python.06_balanced_parentheses.executor": "Debug",
+    "Python.07_robotics.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/yorda/Desktop/Code/Python-Course/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "project.propDebugger",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yorda\Desktop\Code\Python-Course\Python Advanced\python_advanced\lists_as_stacks_and_queues_exercise" />
+      <recent name="C:\Users\yorda\Desktop\Code\Python-Course\Python Advanced\python_advanced\lists_as_stacks_and_queues_lab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.07_robotics">
+    <configuration name="03_fast_food" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise/03_fast_food.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_bashion_boutique" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise/04_bashion_boutique.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_truck_tour" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise/05_truck_tour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06_balanced_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise/06_balanced_parentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07_robotics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\Desktop\Code\Python-Course\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise/07_robotics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.07_robotics" />
+        <item itemvalue="Python.06_balanced_parentheses" />
+        <item itemvalue="Python.05_truck_tour" />
+        <item itemvalue="Python.04_bashion_boutique" />
+        <item itemvalue="Python.03_fast_food" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.10968.92" />
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bda7e60e-e7d0-45f6-9dbb-b3dfef5fc216" name="Changes" comment="" />
+      <created>1788940155462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788940155462</updated>
+      <workItem from="1788940156604" duration="1364000" />
+      <workItem from="1789025113419" duration="5013000" />
+      <workItem from="1789974848540" duration="707000" />
+      <workItem from="1789976191255" duration="354000" />
+      <workItem from="1789976655995" duration="37982000" />
+      <workItem from="1790447946293" duration="1296000" />
+      <workItem from="1790582064005" duration="591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_lab/01_reverse_strings.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_lab/03_supermarket.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_lab/04_water_dispenser.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise/02_stacked_queries.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise/03_fast_food.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise/04_bashion_boutique.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise/05_truck_tour.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise/06_balanced_parentheses.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise/06_balanced_parentheses.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Course$05_hot_potato.coverage" NAME="05_hot_potato Coverage Results" MODIFIED="1790107633658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$02_matching_parentheses.coverage" NAME="02_matching_parentheses Coverage Results" MODIFIED="1789996294052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$01_reverse_strings.coverage" NAME="01_reverse_strings Coverage Results" MODIFIED="1789979183420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$05_truck_tour.coverage" NAME="05_truck_tour Coverage Results" MODIFIED="1790428849375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$03_supermarket.coverage" NAME="03_supermarket Coverage Results" MODIFIED="1790103794749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$06_balanced_parentheses.coverage" NAME="06_balanced_parentheses Coverage Results" MODIFIED="1790441998564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$01_reverse_numbers.coverage" NAME="01_reverse_numbers Coverage Results" MODIFIED="1790313574120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$04_bashion_boutique.coverage" NAME="04_bashion_boutique Coverage Results" MODIFIED="1790338835718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$02_stacked_queries.coverage" NAME="02_stacked_queries Coverage Results" MODIFIED="1790315085004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$03_fast_food.coverage" NAME="03_fast_food Coverage Results" MODIFIED="1790321766077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+  </component>
+</project>

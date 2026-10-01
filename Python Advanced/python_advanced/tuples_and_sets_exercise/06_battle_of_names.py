@@ -22,4 +22,4 @@ elif sum(odd) > sum(even):
 elif sum(even) > sum(odd):
     result = odd.symmetric_difference(even)
     print(", ".join(map(str, result)))
-
+print(*, sep="")

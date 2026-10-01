@@ -1,35 +1,25 @@
 n = int(input())
-guests_list = set()
-vips = []
-losers = []
-arrived = set()
+
+guests = set()
 
 for _ in range(n):
-    guests_list.add(input())
-
-for guest in guests_list:
-    if guest[0].isdigit():
-        vips.append(guest)
-    else:
-        losers.append(guest)
+    guests.add(input())
 
 while True:
-    data = input()
+    guest = input()
 
-    if data == "END":
+    if guest == "END":
         break
 
-    arrived.add(data)
+    guests.remove(guest)
 
-print(len(arrived) - (len(losers) - len(vips)))
+vips = sorted([guest for guest in guests if guest[0].isdigit()])
+regular = sorted([guest for guest in guests if not guest[0].isdigit()])
 
-result_vips = list((set(vips)).difference(arrived))
-result_losers = list((set(losers)).difference(arrived))
-result_losers.reverse()
+print(len(guests))
 
-
-for guest in result_vips:
+for guest in vips:
     print(guest)
 
-for guest in result_losers:
+for guest in regular:
     print(guest)

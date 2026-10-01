@@ -21,4 +21,4 @@ for _ in range(n):
 
 max_length = max(result, key=len)
 
-print(f"The longest intersection is [{", ".join(map(str, max_length))}] with length {len(max_length)}")
+print(f"Longest intersection is [{', '.join(map(str, max_length))}] with length {len(max_length)}")

@@ -20,6 +20,6 @@ elif sum(odd) > sum(even):
     result = odd.difference(even)
     print(", ".join(map(str, result)))
 elif sum(even) > sum(odd):
-    result = even.symmetric_difference(odd)
+    result = odd.symmetric_difference(even)
     print(", ".join(map(str, result)))
 

@@ -6,16 +6,14 @@ milk = deque(map(int, input().split(", ")))
 count = 0
 
 while True:
-    if len(chocolate) == 0 or len(milk) == 0:
-        break
-
-    if chocolate[-1] <= 0:
+    while chocolate and chocolate[-1] <= 0:
         chocolate.pop()
-        continue
 
-    if milk[0] <= 0:
+    while milk and milk[0] <= 0:
         milk.popleft()
-        continue
+
+    if not chocolate or not milk:
+        break
 
     if chocolate[-1] == milk[0]:
         count += 1
@@ -33,12 +31,12 @@ if count == 5:
 else:
     print("Not enough milkshakes.")
 
-if len(chocolate) > 0:
+if chocolate:
     print(f"Chocolate: {', '.join(map(str, chocolate))}")
 else:
     print("Chocolate: empty")
 
-if len(milk) > 0:
+if milk:
     print(f"Milk: {', '.join(map(str, milk))}")
 else:
     print("Milk: empty")

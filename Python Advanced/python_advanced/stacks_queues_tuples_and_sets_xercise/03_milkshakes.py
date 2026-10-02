@@ -1,23 +1,21 @@
 from collections import deque
 
 chocolate = list(map(int, input().split(", ")))
-tuple(chocolate)
-milk = list(map(int, input().split(", ")))
-milk = deque(milk)
+milk = deque(map(int, input().split(", ")))
 
 count = 0
 
 while True:
+    if len(chocolate) == 0 or len(milk) == 0:
+        break
 
     if chocolate[-1] <= 0:
         chocolate.pop()
+        continue
+
     if milk[0] <= 0:
         milk.popleft()
-
-    if len(chocolate) == 0:
-        break
-    if len(milk) == 0:
-        break
+        continue
 
     if chocolate[-1] == milk[0]:
         count += 1
@@ -36,13 +34,11 @@ else:
     print("Not enough milkshakes.")
 
 if len(chocolate) > 0:
-    print(f"Chocolate: ", end="")
-    print(*chocolate, sep=", ")
+    print(f"Chocolate: {', '.join(map(str, chocolate))}")
 else:
-    print(f"Chocolate: empty")
+    print("Chocolate: empty")
 
 if len(milk) > 0:
-    print(f"Milk: ", end="")
-    print(*milk, sep=", ")
+    print(f"Milk: {', '.join(map(str, milk))}")
 else:
-    print(f"Milk: empty")
+    print("Milk: empty")

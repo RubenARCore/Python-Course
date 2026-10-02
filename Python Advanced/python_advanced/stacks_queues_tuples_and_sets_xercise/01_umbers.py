@@ -21,5 +21,5 @@ for _ in range(n):
         checker = first_set.issubset(second_set) or second_set.issubset(first_set)
         print(checker)
 
-print(*sorted(first_set), sep=", ")
-print(*sorted(second_set), sep=", ")
+print(*sorted(map(int, first_set)), sep=", ")
+print(*sorted(map(int, second_set)), sep=", ")

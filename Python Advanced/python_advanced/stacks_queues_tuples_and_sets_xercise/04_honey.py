@@ -7,7 +7,7 @@ count = 0
 
 while bees and nectar:
     if nectar[-1] > bees[0]:
-        if symbols == "/" and nectar == 0:
+        if symbols[0] == "/" and nectar[-1] == 0:
             nectar.pop()
             symbols.popleft()
             bees.popleft()

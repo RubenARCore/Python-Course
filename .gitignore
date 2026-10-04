@@ -4,4 +4,6 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-.~lock.*
+
+# LibreOffice / Word temporary lock files
+~lock*.docx#

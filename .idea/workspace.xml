@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bda7e60e-e7d0-45f6-9dbb-b3dfef5fc216" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Basics/rename_script/rename_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced/python_advanced/multidimensional_lists_lab/03_flattening_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/01.First Steps in Coding - Exercise/01. USD to BGN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/01.First Steps in Coding - Exercise/02. Radians to Degrees.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/01.First Steps in Coding - Exercise/03. Deposit Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/01.First Steps in Coding - Exercise/04. Vacation books list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/01.First Steps in Coding - Exercise/05. Supplies for School.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/01.First Steps in Coding - Exercise/06. Repainting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/01.First Steps in Coding - Exercise/07. Food Delivery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/01.First Steps in Coding - Exercise/08. Basketball Equipment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/01.First Steps in Coding - Exercise/09. Fish Tank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/02.Conditional Statements - Lab/01. Excellent Result.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/02.Conditional Statements - Lab/02. Greater Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/02.Conditional Statements - Lab/03. Even or Odd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/02.Conditional Statements - Lab/04. Password Guess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/02.Conditional Statements - Lab/05. Number 100...200.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/02.Conditional Statements - Lab/06. Speed Info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/02.Conditional Statements - Lab/07. Area of Figures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/03.Conditional Statements - Exercise/01. Sum Seconds.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/03.Conditional Statements - Exercise/02. Bonus Score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/03.Conditional Statements - Exercise/03. Time + 15 Minutes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/03.Conditional Statements - Exercise/04. Toy Shop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/03.Conditional Statements - Exercise/05. Godzilla vs. Kong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/03.Conditional Statements - Exercise/06. World Swimming Record.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/03.Conditional Statements - Exercise/07. Shopping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/03.Conditional Statements - Exercise/08. Lunch Break.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/04.Conditional Statements Advanced - Lab/01. Day of Week.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/04.Conditional Statements Advanced - Lab/02. Weekend or Working Day.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/04.Conditional Statements Advanced - Lab/03. Animal Type.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/04.Conditional Statements Advanced - Lab/04. Personal Titles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/04.Conditional Statements Advanced - Lab/05. Small Shop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/04.Conditional Statements Advanced - Lab/06. Number in Range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/04.Conditional Statements Advanced - Lab/07.Working Hours.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/04.Conditional Statements Advanced - Lab/08.Cinema Ticket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/04.Conditional Statements Advanced - Lab/09. Fruit or Vegetable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/04.Conditional Statements Advanced - Lab/10. Invalid Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/04.Conditional Statements Advanced - Lab/11. Fruit Shop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/04.Conditional Statements Advanced - Lab/12. Trade Commissions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/05.Conditional Statements Advanced - Exercise/01. Cinema.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/05.Conditional Statements Advanced - Exercise/02. Summer Outfit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/05.Conditional Statements Advanced - Exercise/03. New House.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/05.Conditional Statements Advanced - Exercise/04. Fishing Boat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/05.Conditional Statements Advanced - Exercise/05. Journey.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/05.Conditional Statements Advanced - Exercise/06. Operations Between Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/05.Conditional Statements Advanced - Exercise/07. Hotel Room.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/05.Conditional Statements Advanced - Exercise/08. On Time for the Exam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/05.Conditional Statements Advanced - Exercise/09. Ski Trip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/06.For Loop - Lab/01. Numbers from 1 to 100.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/06.For Loop - Lab/02. Numbers 1...N with Step 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/06.For Loop - Lab/03. Even Powers of 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/06.For Loop - Lab/04. Numbers N...1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/06.For Loop - Lab/05. Character Sequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/06.For Loop - Lab/06. Vowels Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/06.For Loop - Lab/07. Sum Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/06.For Loop - Lab/08. Number sequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/06.For Loop - Lab/09. Left and Right Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/06.For Loop - Lab/10. Odd Even Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/07.For Loop - Exercise/01. Numbers Ending in 7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/07.For Loop - Exercise/02. Half Sum Element.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/07.For Loop - Exercise/03. Histogram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/07.For Loop - Exercise/04. Clever Lily.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/07.For Loop - Exercise/05. Salary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/07.For Loop - Exercise/06. Oscars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/07.For Loop - Exercise/07. Trekking Mania.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/07.For Loop - Exercise/08. Tennis Ranklist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/07.For Loop - Exercise/Условия.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/08.While Loop - Lab/01. Read Text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/08.While Loop - Lab/02. Password.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/08.While Loop - Lab/03. Sum Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/08.While Loop - Lab/04. Sequence 2k+1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/08.While Loop - Lab/05. Account Balance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/08.While Loop - Lab/06. Max Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/08.While Loop - Lab/07. Min Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/08.While Loop - Lab/08. Graduation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/08.While Loop - Lab/Условия (9).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/09.While Loop - Exercise/01. Old Books.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/09.While Loop - Exercise/02. Exam Preparation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/09.While Loop - Exercise/03. Vacation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/09.While Loop - Exercise/04. Walking No expire time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/09.While Loop - Exercise/05. Coins.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/09.While Loop - Exercise/06. Cake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/09.While Loop - Exercise/07. Moving.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/09.While Loop - Exercise/Условия.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/10.Nested Loops - Lab/01. Clock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/10.Nested Loops - Lab/02. Multiplication Table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/10.Nested Loops - Lab/03. Combinations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/10.Nested Loops - Lab/04. Sum of Two Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/10.Nested Loops - Lab/05. Travelling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/10.Nested Loops - Lab/06. Building.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/10.Nested Loops - Lab/Условия.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/11.Nested Loops - Exercise/01. Number Pyramid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/11.Nested Loops - Exercise/02. Equal Sums Even Odd Position.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/11.Nested Loops - Exercise/03. Sum Prime Non Prime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/11.Nested Loops - Exercise/04. Train The Trainers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/11.Nested Loops - Exercise/05. Special Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/11.Nested Loops - Exercise/06. Cinema Tickets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/11.Nested Loops - Exercise/Условия.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/1.Basic Syntax, Conditional Statements and Loops - Lab/01. Number Definer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/1.Basic Syntax, Conditional Statements and Loops - Lab/02. Largest Of Three Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/1.Basic Syntax, Conditional Statements and Loops - Lab/03. Word Reverse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/1.Basic Syntax, Conditional Statements and Loops - Lab/04. Even Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/1.Basic Syntax, Conditional Statements and Loops - Lab/05. Number Between 1 and 100.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/1.Basic Syntax, Conditional Statements and Loops - Lab/06. Shopping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/1.Basic Syntax, Conditional Statements and Loops - Lab/07. Patterns.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/1.Basic Syntax, Conditional Statements and Loops - Lab/Basic-Syntax-Conditional-Statements-and-Loops-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/10.Functions - Lab/01. Absolute Values.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/10.Functions - Lab/02. Grades.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/10.Functions - Lab/03. Calculations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/10.Functions - Lab/04. Repeat String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/10.Functions - Lab/05. Orders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/10.Functions - Lab/06. Calculate Rectangle Area.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/10.Functions - Lab/07. Rounding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/10.Functions - Lab/Functions-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/01. Smallest of Three Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/02. Add and Subtract.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/03. Characters in Range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/04. Odd and Even Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/05. Even Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/06. Sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/07. Min Max and Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/08. Palindrome Integers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/09. Password Validator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/10. Perfect Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/11. Loading Bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/12. Factorial Division.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/11.Functions - Exercise/Functions-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/12.Functions - More Exercises/01. Data Types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/12.Functions - More Exercises/02. Center Point.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/12.Functions - More Exercises/03. Longer Line.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/12.Functions - More Exercises/04. Tribonacci Sequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/12.Functions - More Exercises/05. Multiplication Sign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/12.Functions - More Exercises/Functions-More-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/13.Lists Advanced - Lab/01. No Vowels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/13.Lists Advanced - Lab/02. Trains.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/13.Lists Advanced - Lab/03. To-do List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/13.Lists Advanced - Lab/04. Palindrome Strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/13.Lists Advanced - Lab/05. Sorting Names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/13.Lists Advanced - Lab/06. Even Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/13.Lists Advanced - Lab/07. The Office.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/13.Lists Advanced - Lab/Lists-Advanced-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/14.Lists Advanced - Exercise/01. Which Are In.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/14.Lists Advanced - Exercise/02. Next Version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/14.Lists Advanced - Exercise/03. Word Filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/14.Lists Advanced - Exercise/04. Number Classification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/14.Lists Advanced - Exercise/05. Office Chairs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/14.Lists Advanced - Exercise/06. Electron Distribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/14.Lists Advanced - Exercise/07. Group of 10's.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/14.Lists Advanced - Exercise/08. Decipher This!.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/14.Lists Advanced - Exercise/09. Anonymous Threat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/14.Lists Advanced - Exercise/10. Pokemon Don't Go.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/14.Lists Advanced - Exercise/11. SoftUni Course Planning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/14.Lists Advanced - Exercise/Lists-Advanced-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/15.Lists Advanced - More Exercises/01. Social Distribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/15.Lists Advanced - More Exercises/02. Take Skip Rope.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/15.Lists Advanced - More Exercises/03. Kate's Way Out.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/15.Lists Advanced - More Exercises/04. Battle Ships.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/15.Lists Advanced - More Exercises/05. Dots No expire time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/15.Lists Advanced - More Exercises/Lists-Advanced-More-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/16.Objects and Classes - Lab/01. Comment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/16.Objects and Classes - Lab/02. Party.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/16.Objects and Classes - Lab/03. Email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/16.Objects and Classes - Lab/04. Zoo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/16.Objects and Classes - Lab/05. Circle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/16.Objects and Classes - Lab/Objects-and-Classes-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/17.Objects and Classes - Exercise/01. Storage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/17.Objects and Classes - Exercise/02. Weapon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/17.Objects and Classes - Exercise/03. Catalogue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/17.Objects and Classes - Exercise/04. Town.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/17.Objects and Classes - Exercise/05. Class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/17.Objects and Classes - Exercise/06. Inventory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/17.Objects and Classes - Exercise/07. Articles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/17.Objects and Classes - Exercise/08. Vehicle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/17.Objects and Classes - Exercise/09. Movie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/17.Objects and Classes - Exercise/Objects-and-Classes-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/18.Dictionaries - Lab/01. Bakery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/18.Dictionaries - Lab/02. Stock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/18.Dictionaries - Lab/03 Statistics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/18.Dictionaries - Lab/04. Students.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/18.Dictionaries - Lab/05. ASCII Values.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/18.Dictionaries - Lab/06. Odd Occurrences.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/18.Dictionaries - Lab/07. Word Synonyms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/18.Dictionaries - Lab/Dictionaries-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/01. Count Chars in a String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/02. A Miner Task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/03. Capitals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/04. Phonebook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/05. Legendary Farming.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/06. Orders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/07. SoftUni Parking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/08. Courses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/09. Student Academy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/10. Company Users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/11. Force Book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/12. SoftUni Exam Results.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/19.Dictionaries - Exercise/Dictionaries-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/01. Jenny's Secret Message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/02. Drink Something.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/03. Chat Codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/04. Maximum Multiple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/05. Orders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/06. String Pureness.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/07. Double Char.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/08. How Much Coffee Do You Need.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/09. Sorting Hat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/10. Mutate Strings EXTRA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/11. Easter Bread.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/12. Christmas Spirit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/2.Basic Syntax, Conditional Statements and Loops - Exercise/Basic-Syntax-Conditional-Statements-and-Loops-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/20.Dictionaries - More Exercises/01. Ranking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/20.Dictionaries - More Exercises/02. Judge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/20.Dictionaries - More Exercises/03. MOBA Challenger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/20.Dictionaries - More Exercises/04. Snow White.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/20.Dictionaries - More Exercises/05. Dragon Army.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/20.Dictionaries - More Exercises/Dictionaries-More-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/21.Text Processing - Lab/01. Reverse Strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/21.Text Processing - Lab/02. Repeat Strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/21.Text Processing - Lab/03. Substring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/21.Text Processing - Lab/04. Text Filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/21.Text Processing - Lab/05. Digits, Letters and Other.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/21.Text Processing - Lab/Text-Processing-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/22.Text Processing - Exercise/01. Valid Usernames.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/22.Text Processing - Exercise/02. Character Multiplier.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/22.Text Processing - Exercise/03. Extract File.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/22.Text Processing - Exercise/04. Caesar Cipher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/22.Text Processing - Exercise/05. Emoticon Finder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/22.Text Processing - Exercise/06. Replace Repeating Chars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/22.Text Processing - Exercise/07. String Explosion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/22.Text Processing - Exercise/08. Letters Change Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/22.Text Processing - Exercise/09. Rage Quit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/22.Text Processing - Exercise/10. Winning Ticket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/22.Text Processing - Exercise/Text-Processing-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/23.Text Processing - More Exercises/01. Extract Person Information.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/23.Text Processing - More Exercises/02. ASCII Sumator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/23.Text Processing - More Exercises/03. Treasure Finder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/23.Text Processing - More Exercises/04. Morse Code Translator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/23.Text Processing - More Exercises/05. HTML.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/23.Text Processing - More Exercises/Text-Processing-More-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/24.Regular Expressions - Lab/01. Match Full Name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/24.Regular Expressions - Lab/02. Match Phone Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/24.Regular Expressions - Lab/03. Match Dates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/24.Regular Expressions - Lab/04. Match Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/24.Regular Expressions - Lab/RegEx-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/25.Regular Expressions - Exercise/01. Capture the Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/25.Regular Expressions - Exercise/02. Find Variable Names in Sentences.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/25.Regular Expressions - Exercise/03. Find Occurrences of Word in Sentence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/25.Regular Expressions - Exercise/04. Extract Emails.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/25.Regular Expressions - Exercise/05. Furniture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/25.Regular Expressions - Exercise/06. Extract the Links.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/25.Regular Expressions - Exercise/RegEx-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/26.Regular Expressions - More Exercises/RegEx-More-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/01. Programming Fundamentals Final Exam Retake/01. The Imitation Game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/01. Programming Fundamentals Final Exam Retake/02. Ad Astra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/01. Programming Fundamentals Final Exam Retake/03. The Pianist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/01. Programming Fundamentals Final Exam Retake/Ad Astra Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/01. Programming Fundamentals Final Exam Retake/The Imitation Game Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/01. Programming Fundamentals Final Exam Retake/The Pianist Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/02. Programming Fundamentals Final Exam/01. World Tour.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/02. Programming Fundamentals Final Exam/02. Destination Mapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/02. Programming Fundamentals Final Exam/03. Plant Discovery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/02. Programming Fundamentals Final Exam/Destination Mapper Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/02. Programming Fundamentals Final Exam/Plant Discovery Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/02. Programming Fundamentals Final Exam/World Tour Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/03.Programming Fundamentals Final Exam Retake/01. Secret Chat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/27.Fundamentals - Exams/03.Programming Fundamentals Final Exam Retake/Secret Chat Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/3.Basic Syntax, Conditional Statements and Loops - More Exercises/01. Find The Largest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/3.Basic Syntax, Conditional Statements and Loops - More Exercises/02. Find The Capitals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/3.Basic Syntax, Conditional Statements and Loops - More Exercises/03. Wolf In Sheep's Clothing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/3.Basic Syntax, Conditional Statements and Loops - More Exercises/04. Sum Of A Beach.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/3.Basic Syntax, Conditional Statements and Loops - More Exercises/Basic-Syntax-Conditional-Statements-and-Loops-More-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/4.Data Types and Variables - Lab/01. Concat Names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/4.Data Types and Variables - Lab/02. Convert Meters to Kilometers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/4.Data Types and Variables - Lab/03. Pounds to Dollars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/4.Data Types and Variables - Lab/04. Centuries to Minutes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/4.Data Types and Variables - Lab/05. Special Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/4.Data Types and Variables - Lab/06. Next Happy Year.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/4.Data Types and Variables - Lab/Data-Types-and-Variables-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/5.Data Types and Variables - Exercise/01. Integer Operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/5.Data Types and Variables - Exercise/02. Chars to String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/5.Data Types and Variables - Exercise/03. Elevator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/5.Data Types and Variables - Exercise/04. Sum of Chars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/5.Data Types and Variables - Exercise/05. Print Part of the ASCII Table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/5.Data Types and Variables - Exercise/06. Triples of Latin Letters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/5.Data Types and Variables - Exercise/07. Water Overflow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/5.Data Types and Variables - Exercise/08. Party Profit EXTRA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/5.Data Types and Variables - Exercise/09. Snowballs EXTRA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/5.Data Types and Variables - Exercise/10. Gladiator Expenses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/5.Data Types and Variables - Exercise/Data-Types-and-Variables-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/6.Data Types and Variables - More Exercises/01. Exchange Integers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/6.Data Types and Variables - More Exercises/02. Prime Number Checker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/6.Data Types and Variables - More Exercises/03. Decrypting Messages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/6.Data Types and Variables - More Exercises/04. Balanced Brackets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/6.Data Types and Variables - More Exercises/Data-Types-and-Variables-More-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/7.Lists Basics - Lab/01. Strange Zoo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/7.Lists Basics - Lab/02. Courses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/7.Lists Basics - Lab/03. List Statistics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/7.Lists Basics - Lab/04. Search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/7.Lists Basics - Lab/05. Numbers Filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/7.Lists Basics - Lab/Lists-Basics-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/8.Lists Basics - Exercise/01. Invert Values.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/8.Lists Basics - Exercise/02. Multiples List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/8.Lists Basics - Exercise/03. Football Cards.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/8.Lists Basics - Exercise/04. Number Beggars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/8.Lists Basics - Exercise/05. Faro Shuffle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/8.Lists Basics - Exercise/06. Survival of the Biggest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/8.Lists Basics - Exercise/07. Easter Gifts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/8.Lists Basics - Exercise/08. Seize the Fire.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/8.Lists Basics - Exercise/09. Hello, France.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/8.Lists Basics - Exercise/10. Bread Factory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/8.Lists Basics - Exercise/Lists-Basics-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/9.Lists Basics - More Exercises/01. Zeros to Back.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/9.Lists Basics - More Exercises/02. Messaging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/9.Lists Basics - More Exercises/03. Car Race.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/9.Lists Basics - More Exercises/04. Josephus Permutation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/9.Lists Basics - More Exercises/05. Tic-Tac-Toe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/9.Lists Basics - More Exercises/06. List Manipulator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/9.Lists Basics - More Exercises/Lists-Basics-More-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/my_exams/Programming Fundamentals with Python Final Exam - 1 August 2026/01. String Manipulator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/my_exams/Programming Fundamentals with Python Final Exam - 1 August 2026/02. Message Translator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/my_exams/Programming Fundamentals with Python Final Exam - 1 August 2026/03. Followers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/my_exams/Programming Fundamentals with Python Final Exam - 1 August 2026/Followers Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/my_exams/Programming Fundamentals with Python Final Exam - 1 August 2026/Message Translator Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/my_exams/Programming Fundamentals with Python Final Exam - 1 August 2026/String Manipulator Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/my_exams/Programming Fundamentals with Python Mid Exam - 20 June 2026/01. The Biscuit Factory.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/my_exams/Programming Fundamentals with Python Mid Exam - 20 June 2026/01. The Biscuit Factory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/my_exams/Programming Fundamentals with Python Mid Exam - 20 June 2026/02. Greenhouse.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/my_exams/Programming Fundamentals with Python Mid Exam - 20 June 2026/02. Greenhouse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/my_exams/Programming Fundamentals with Python Mid Exam - 20 June 2026/03. Deck of Cards.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals/my_exams/Programming Fundamentals with Python Mid Exam - 20 June 2026/03. Deck of Cards.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="368" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RubenARCore&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RubenARCore/Python-Course.git&quot;,
+    &quot;accountId&quot;: &quot;736dfd1b-c23a-4d7f-9f78-0f8cf5793751&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.6983681285411105" />
+      <entry key="MS500" value="4.741006160148312" />
+      <entry key="S2" value="7.475503433904891" />
+      <entry key="S5" value="8.636946255652894" />
+      <entry key="S10" value="10.141062748423158" />
+      <entry key="S30" value="15.253718711124291" />
+      <entry key="S60" value="23.42660050955217" />
+      <entry key="M2" value="37.401319610071134" />
+      <entry key="M5" value="58.4127209841735" />
+      <entry key="M10" value="74.0525437548397" />
+      <entry key="M15" value="84.95522322660968" />
+      <entry key="M30" value="105.53874565838453" />
+      <entry key="H1" value="123.28036223311938" />
+      <entry key="H2" value="135.24246709039468" />
+      <entry key="H4" value="142.2937391438305" />
+      <entry key="D1" value="299.74308280833543" />
+      <entry key="W1" value="1138.475706975383" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="3.3010579521647884E-300" />
+      <entry key="S5" value="1.61235719328755E-120" />
+      <entry key="S10" value="1.269786278587268E-60" />
+      <entry key="S30" value="1.0829683815589777E-20" />
+      <entry key="S60" value="1.056170645711537E-10" />
+      <entry key="M2" value="1.2311446425819928E-5" />
+      <entry key="M5" value="0.020399289678508126" />
+      <entry key="M10" value="0.2761924773695636" />
+      <entry key="M15" value="0.6685224243015503" />
+      <entry key="M30" value="1.630043162567803" />
+      <entry key="H1" value="2.5830907740147966" />
+      <entry key="H2" value="3.5510140674142194" />
+      <entry key="H4" value="4.780668435360073" />
+      <entry key="D1" value="28.154654211806868" />
+      <entry key="W1" value="149.81493456458992" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.6543430782045656" />
+      <entry key="MS500" value="4.697232664450831" />
+      <entry key="S2" value="7.455885567697694" />
+      <entry key="S5" value="8.627671921538239" />
+      <entry key="S10" value="10.135507917585784" />
+      <entry key="S30" value="15.25093677887169" />
+      <entry key="S60" value="23.424236393788007" />
+      <entry key="M2" value="37.39809980083088" />
+      <entry key="M5" value="58.42841535664639" />
+      <entry key="M10" value="74.31932327571194" />
+      <entry key="M15" value="85.61075508844156" />
+      <entry key="M30" value="107.15399750493168" />
+      <entry key="H1" value="125.85200301131532" />
+      <entry key="H2" value="138.78629322609996" />
+      <entry key="H4" value="147.07034043147152" />
+      <entry key="D1" value="327.895643698338" />
+      <entry key="W1" value="1288.289208144967" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3J59eGUxS9NpI0fWUaZgp9T2qW2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01_count_same_values.executor": "Run",
+    "Python.01_reverse_numbers.executor": "Run",
+    "Python.01_reverse_strings.executor": "Run",
+    "Python.01_sum_matrix_elements.executor": "Run",
+    "Python.01_umbers.executor": "Run",
+    "Python.01_unique_usernames.executor": "Run",
+    "Python.02_even_matrix.executor": "Run",
+    "Python.02_expression_evaluator.executor": "Run",
+    "Python.02_matching_parentheses.executor": "Run",
+    "Python.02_sets_of_elements.executor": "Run",
+    "Python.02_stacked_queries.executor": "Run",
+    "Python.02_students_grades.executor": "Run",
+    "Python.03_fast_food.executor": "Run",
+    "Python.03_milkshakes.executor": "Run",
+    "Python.03_periodic_table.executor": "Run",
+    "Python.03_record_unique_names.executor": "Run",
+    "Python.03_supermarket.executor": "Run",
+    "Python.04_bashion_boutique.executor": "Run",
+    "Python.04_honey.executor": "Run",
+    "Python.04_parking_lot.executor": "Debug",
+    "Python.04_water_dispenser.executor": "Debug",
+    "Python.05_hot_potato.executor": "Run",
+    "Python.05_longest_intersection.executor": "Run",
+    "Python.05_santas_present_factory.executor": "Run",
+    "Python.05_softUni_party.executor": "Run",
+    "Python.05_truck_tour.executor": "Run",
+    "Python.06_balanced_parentheses.executor": "Debug",
+    "Python.06_battle_of_names.executor": "Run",
+    "Python.07_robotics.executor": "Run",
+    "Python.08_crossroads.executor": "Run",
+    "Python.6_summation_pairs.executor": "Debug",
+    "Python.rename_script.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/yorda/Desktop/Code/Python-Course/Python Advanced/python_advanced/multidimensional_lists_lab",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "editing.templates",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yorda\Desktop\Code\Python-Course\Python Advanced\python_advanced\multidimensional_lists_lab" />
+      <recent name="C:\Users\yorda\Desktop\Code\Python-Course\Python Advanced\python_advanced\stacks_queues_tuples_and_sets_xercise" />
+      <recent name="C:\Users\yorda\Desktop\Code\Python-Course\Python Advanced\python_advanced\tuples_and_sets_exercise" />
+      <recent name="C:\Users\yorda\Desktop\Code\Python-Course\Python Advanced\python_advanced\tuples_and_sets_lab" />
+      <recent name="C:\Users\yorda\Desktop\Code\Python-Course\Python Advanced\python_advanced\lists_as_stacks_and_queues_exercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.rename_script">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01_sum_matrix_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/python_advanced/multidimensional_lists_lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/python_advanced/multidimensional_lists_lab/01_sum_matrix_elements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_even_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/python_advanced/multidimensional_lists_lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/python_advanced/multidimensional_lists_lab/02_even_matrix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_honey" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/python_advanced/stacks_queues_tuples_and_sets_xercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/python_advanced/stacks_queues_tuples_and_sets_xercise/04_honey.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_santas_present_factory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced/python_advanced/stacks_queues_tuples_and_sets_xercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced/python_advanced/stacks_queues_tuples_and_sets_xercise/05_santas_present_factory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rename_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/rename_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/rename_script/rename_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.App">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.Task">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="python-course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rename_script" />
+        <item itemvalue="Python.02_even_matrix" />
+        <item itemvalue="Python.01_sum_matrix_elements" />
+        <item itemvalue="Python.05_santas_present_factory" />
+        <item itemvalue="Python.04_honey" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.10968.92" />
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bda7e60e-e7d0-45f6-9dbb-b3dfef5fc216" name="Changes" comment="" />
+      <created>1788940155462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788940155462</updated>
+      <workItem from="1788940156604" duration="1364000" />
+      <workItem from="1789025113419" duration="5013000" />
+      <workItem from="1789974848540" duration="707000" />
+      <workItem from="1789976191255" duration="354000" />
+      <workItem from="1789976655995" duration="37982000" />
+      <workItem from="1790447946293" duration="1296000" />
+      <workItem from="1790582064005" duration="20184000" />
+      <workItem from="1790837071752" duration="5633000" />
+      <workItem from="1790859001881" duration="6377000" />
+      <workItem from="1790881965590" duration="363000" />
+      <workItem from="1790882338862" duration="8227000" />
+      <workItem from="1790936047166" duration="17102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_exercise/06_battle_of_names.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/stacks_queues_tuples_and_sets_xercise/01_umbers.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition disabled="true" expression="item = -1" language="Python" />
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/stacks_queues_tuples_and_sets_xercise/02_expression_evaluator.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/stacks_queues_tuples_and_sets_xercise/04_honey.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Advanced/python_advanced/multidimensional_lists_lab/01_sum_matrix_elements.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Course$05_softUni_party.coverage" NAME="05_softUni_party Coverage Results" MODIFIED="1790839949898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$05_hot_potato.coverage" NAME="05_hot_potato Coverage Results" MODIFIED="1790107633658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$02_expression_evaluator.coverage" NAME="02_expression_evaluator Coverage Results" MODIFIED="1790939528503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/stacks_queues_tuples_and_sets_xercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$07_robotics.coverage" NAME="07_robotics Coverage Results" MODIFIED="1790595017869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$04_count_symbols.coverage" NAME="04_count_symbols Coverage Results" MODIFIED="1790861382876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$04_honey.coverage" NAME="04_honey Coverage Results" MODIFIED="1791094834414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/stacks_queues_tuples_and_sets_xercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$03_milkshakes.coverage" NAME="03_milkshakes Coverage Results" MODIFIED="1790946989428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/stacks_queues_tuples_and_sets_xercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$01_count_same_values.coverage" NAME="01_count_same_values Coverage Results" MODIFIED="1790757673593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$04_bashion_boutique.coverage" NAME="04_bashion_boutique Coverage Results" MODIFIED="1790338835718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$05_longest_intersection.coverage" NAME="05_longest_intersection Coverage Results" MODIFIED="1790864519217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$03_periodic_table.coverage" NAME="03_periodic_table Coverage Results" MODIFIED="1790859446137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$asddd.coverage" NAME="asddd Coverage Results" MODIFIED="1790859111691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$08_crossroads.coverage" NAME="08_crossroads Coverage Results" MODIFIED="1790595216625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$05_truck_tour.coverage" NAME="05_truck_tour Coverage Results" MODIFIED="1790428849375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$05_santas_present_factory.coverage" NAME="05_santas_present_factory Coverage Results" MODIFIED="1791094992568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/stacks_queues_tuples_and_sets_xercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$03_supermarket.coverage" NAME="03_supermarket Coverage Results" MODIFIED="1790103794749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$06_balanced_parentheses.coverage" NAME="06_balanced_parentheses Coverage Results" MODIFIED="1790441998564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$01_sum_matrix_elements.coverage" NAME="01_sum_matrix_elements Coverage Results" MODIFIED="1791118021452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/multidimensional_lists_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$rename_script.coverage" NAME="rename_script Coverage Results" MODIFIED="1791120523635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics/rename_script" />
+    <SUITE FILE_PATH="coverage/Python_Course$02_even_matrix.coverage" NAME="02_even_matrix Coverage Results" MODIFIED="1791119534970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/multidimensional_lists_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$01_reverse_strings.coverage" NAME="01_reverse_strings Coverage Results" MODIFIED="1789979183420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$04_parking_lot.coverage" NAME="04_parking_lot Coverage Results" MODIFIED="1790786584683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$01_reverse_numbers.coverage" NAME="01_reverse_numbers Coverage Results" MODIFIED="1790313574120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$01_unique_usernames.coverage" NAME="01_unique_usernames Coverage Results" MODIFIED="1790857647541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$06_battle_of_names.coverage" NAME="06_battle_of_names Coverage Results" MODIFIED="1790883410512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$02_stacked_queries.coverage" NAME="02_stacked_queries Coverage Results" MODIFIED="1790315085004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$03_record_unique_names.coverage" NAME="03_record_unique_names Coverage Results" MODIFIED="1790782332432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$02_students_grades.coverage" NAME="02_students_grades Coverage Results" MODIFIED="1790780406757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$02_matching_parentheses.coverage" NAME="02_matching_parentheses Coverage Results" MODIFIED="1789996294052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_lab" />
+    <SUITE FILE_PATH="coverage/Python_Course$02_sets_of_elements.coverage" NAME="02_sets_of_elements Coverage Results" MODIFIED="1790858349255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/tuples_and_sets_exercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$01_umbers.coverage" NAME="01_umbers Coverage Results" MODIFIED="1790933404315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/stacks_queues_tuples_and_sets_xercise" />
+    <SUITE FILE_PATH="coverage/Python_Course$03_fast_food.coverage" NAME="03_fast_food Coverage Results" MODIFIED="1790321766077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced/python_advanced/lists_as_stacks_and_queues_exercise" />
+  </component>
+</project>

@@ -17,6 +17,7 @@ while bees and nectar:
         nectar.pop()
 
 print(f"Total honey made: {count}")
+
 if nectar:
     print(f"Nectar left: {', '.join(map(str, nectar))}" )
 if bees:

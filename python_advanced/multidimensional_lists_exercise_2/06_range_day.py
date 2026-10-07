@@ -23,7 +23,7 @@ for i in range(n):
         steps = int(data[2])
 
         if data[1] == "right" and 0 <= pc + steps < 5:
-            for s in range(1,steps + 1):
+            for s in range(1, steps + 1):
                 if matrix[pr][pc + s] == ".":
                     checker = True
                 else:
@@ -34,7 +34,7 @@ for i in range(n):
                 matrix[pr][pc + steps] = "A"
                 pc += steps
         elif data[1] == "left" and 0 <= pc - steps < 5:
-            for s in range(1,steps + 1):
+            for s in range(1, steps + 1):
                 if matrix[pr][pc - s] == ".":
                     checker = True
                 else:
@@ -45,7 +45,7 @@ for i in range(n):
                 matrix[pr][pc - steps] = "A"
                 pc -= steps
         elif data[1] == "up" and 0 <= pr - steps < 5:
-            for s in range(1,steps + 1):
+            for s in range(1, steps + 1):
                 if matrix[pr - s][pc] == ".":
                     checker = True
                 else:
@@ -56,7 +56,7 @@ for i in range(n):
                 matrix[pr - steps][pc] = "A"
                 pr -= steps
         elif data[1] == "down" and 0 <= pr + steps < 5:
-            for s in range(1,steps + 1):
+            for s in range(1, steps + 1):
                 if matrix[pr + s][pc] == ".":
                     checker = True
                 else:
@@ -66,26 +66,42 @@ for i in range(n):
                 matrix[pr][pc] = "."
                 matrix[pr + steps][pc] = "A"
                 pr += steps
-    else:
-        if data[1] == "right":
-            for h in range(1, (5 - pc + 1)):
-                if matrix[pr][pc + h] == "x":
-                    matrix[pr][pc + h] = "."
-                    target_count -= 1
-                    shot_target_position.append([pr, pc + h])
-                    break
-        elif data[1] == "left":
-            pass
-        elif data[1] == "up":
-            pass
-        elif data[1] == "down":
-            for h in range(1, (5 - pr + 1)):
-                if matrix[pr + h][pc] == "x":
-                    matrix[pr + h][pc] = "."
-                    target_count -= 1
-                    shot_target_position.append([pr + h, pc])
-                    break
+        else:
+            if data[1] == "right":
+                for h in range(1, 5 - pc):
+                    if matrix[pr][pc + h] == "x":
+                        matrix[pr][pc + h] = "."
+                        target_count -= 1
+                        shot_target_position.append([pr, pc + h])
+                        break
 
+            elif data[1] == "left":
+                for h in range(1, pc + 1):
+                    if matrix[pr][pc - h] == "x":
+                        matrix[pr][pc - h] = "."
+                        target_count -= 1
+                        shot_target_position.append([pr, pc - h])
+                        break
+
+            elif data[1] == "up":
+                for h in range(1, pr + 1):
+                    if matrix[pr - h][pc] == "x":
+                        matrix[pr - h][pc] = "."
+                        target_count -= 1
+                        shot_target_position.append([pr - h, pc])
+                        break
+
+            elif data[1] == "down":
+                for h in range(1, 5 - pr):
+                    if matrix[pr + h][pc] == "x":
+                        matrix[pr + h][pc] = "."
+                        target_count -= 1
+                        shot_target_position.append([pr + h, pc])
+                        break
     if target_count == 0:
         print(f"Training completed! All {final_target} targets hit.")
         exit()
+
+print(f"Training not completed! {target_count} targets left.")
+for item in shot_target_position:
+    print(item)

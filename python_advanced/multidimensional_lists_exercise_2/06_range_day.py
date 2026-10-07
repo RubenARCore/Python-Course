@@ -23,59 +23,26 @@ for _ in range(n):
     if data[0] == "move":
 
         steps = int(data[2])
-        checker = False
 
-        if data[1] == "right" and pc + steps < 5:
-            checker = True
+        if data[1] == "right" and pc + steps < 5 and matrix[pr][pc + steps] == ".":
+            matrix[pr][pc] = "."
+            pc += steps
+            matrix[pr][pc] = "A"
 
-            for s in range(1, steps + 1):
-                if matrix[pr][pc + s] != ".":
-                    checker = False
-                    break
+        elif data[1] == "left" and pc - steps >= 0 and matrix[pr][pc - steps] == ".":
+            matrix[pr][pc] = "."
+            pc -= steps
+            matrix[pr][pc] = "A"
 
-            if checker:
-                matrix[pr][pc] = "."
-                pc += steps
-                matrix[pr][pc] = "A"
+        elif data[1] == "up" and pr - steps >= 0 and matrix[pr - steps][pc] == ".":
+            matrix[pr][pc] = "."
+            pr -= steps
+            matrix[pr][pc] = "A"
 
-        elif data[1] == "left" and pc - steps >= 0:
-            checker = True
-
-            for s in range(1, steps + 1):
-                if matrix[pr][pc - s] != ".":
-                    checker = False
-                    break
-
-            if checker:
-                matrix[pr][pc] = "."
-                pc -= steps
-                matrix[pr][pc] = "A"
-
-        elif data[1] == "up" and pr - steps >= 0:
-            checker = True
-
-            for s in range(1, steps + 1):
-                if matrix[pr - s][pc] != ".":
-                    checker = False
-                    break
-
-            if checker:
-                matrix[pr][pc] = "."
-                pr -= steps
-                matrix[pr][pc] = "A"
-
-        elif data[1] == "down" and pr + steps < 5:
-            checker = True
-
-            for s in range(1, steps + 1):
-                if matrix[pr + s][pc] != ".":
-                    checker = False
-                    break
-
-            if checker:
-                matrix[pr][pc] = "."
-                pr += steps
-                matrix[pr][pc] = "A"
+        elif data[1] == "down" and pr + steps < 5 and matrix[pr + steps][pc] == ".":
+            matrix[pr][pc] = "."
+            pr += steps
+            matrix[pr][pc] = "A"
 
     else:
 
@@ -115,11 +82,11 @@ for _ in range(n):
         print(f"Training completed! All {final_target} targets hit.")
 
         for target in shot_target_position:
-            print(target)
+            print(f"[{target[0]}, {target[1]}]")
 
         break
 else:
     print(f"Training not completed! {target_count} targets left.")
 
     for target in shot_target_position:
-        print(target)
+        print(f"[{target[0]}, {target[1]}]")

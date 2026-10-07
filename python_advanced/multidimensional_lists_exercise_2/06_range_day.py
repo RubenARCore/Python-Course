@@ -3,7 +3,6 @@ target_count = 0
 position = []
 shot_target_position = []
 
-checker = True
 for row_idx, row in enumerate(matrix):
     if "A" in row:
         position = [row_idx, row.index("A")]
@@ -13,6 +12,7 @@ pr, pc = position
 
 target_count = sum(target_row.count("x") for target_row in matrix)
 final_target = target_count
+
 n = int(input())
 
 for i in range(n):
@@ -20,10 +20,11 @@ for i in range(n):
     data = input().split()
 
     if data[0] == "move":
-        checker = True
         steps = int(data[2])
 
         if data[1] == "right" and 0 <= pc + steps < 5:
+            checker = True
+
             for s in range(1, steps + 1):
                 if matrix[pr][pc + s] == ".":
                     checker = True
@@ -37,6 +38,8 @@ for i in range(n):
                 pc += steps
 
         elif data[1] == "left" and 0 <= pc - steps < 5:
+            checker = True
+
             for s in range(1, steps + 1):
                 if matrix[pr][pc - s] == ".":
                     checker = True
@@ -50,6 +53,8 @@ for i in range(n):
                 pc -= steps
 
         elif data[1] == "up" and 0 <= pr - steps < 5:
+            checker = True
+
             for s in range(1, steps + 1):
                 if matrix[pr - s][pc] == ".":
                     checker = True
@@ -63,6 +68,8 @@ for i in range(n):
                 pr -= steps
 
         elif data[1] == "down" and 0 <= pr + steps < 5:
+            checker = True
+
             for s in range(1, steps + 1):
                 if matrix[pr + s][pc] == ".":
                     checker = True

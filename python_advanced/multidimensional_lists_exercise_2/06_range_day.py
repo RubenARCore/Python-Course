@@ -1,4 +1,5 @@
 matrix = [input().split() for _ in range(5)]
+
 target_count = 0
 position = []
 shot_target_position = []
@@ -10,79 +11,74 @@ for row_idx, row in enumerate(matrix):
 
 pr, pc = position
 
-target_count = sum(target_row.count("x") for target_row in matrix)
+target_count = sum(row.count("x") for row in matrix)
 final_target = target_count
 
 n = int(input())
 
-for i in range(n):
+for _ in range(n):
 
     data = input().split()
 
     if data[0] == "move":
+
         steps = int(data[2])
+        checker = False
 
-        if data[1] == "right" and 0 <= pc + steps < 5:
+        if data[1] == "right" and pc + steps < 5:
             checker = True
 
             for s in range(1, steps + 1):
-                if matrix[pr][pc + s] == ".":
-                    checker = True
-                else:
+                if matrix[pr][pc + s] != ".":
                     checker = False
                     break
 
             if checker:
                 matrix[pr][pc] = "."
-                matrix[pr][pc + steps] = "A"
                 pc += steps
+                matrix[pr][pc] = "A"
 
-        elif data[1] == "left" and 0 <= pc - steps < 5:
+        elif data[1] == "left" and pc - steps >= 0:
             checker = True
 
             for s in range(1, steps + 1):
-                if matrix[pr][pc - s] == ".":
-                    checker = True
-                else:
+                if matrix[pr][pc - s] != ".":
                     checker = False
                     break
 
             if checker:
                 matrix[pr][pc] = "."
-                matrix[pr][pc - steps] = "A"
                 pc -= steps
+                matrix[pr][pc] = "A"
 
-        elif data[1] == "up" and 0 <= pr - steps < 5:
+        elif data[1] == "up" and pr - steps >= 0:
             checker = True
 
             for s in range(1, steps + 1):
-                if matrix[pr - s][pc] == ".":
-                    checker = True
-                else:
+                if matrix[pr - s][pc] != ".":
                     checker = False
                     break
 
             if checker:
                 matrix[pr][pc] = "."
-                matrix[pr - steps][pc] = "A"
                 pr -= steps
+                matrix[pr][pc] = "A"
 
-        elif data[1] == "down" and 0 <= pr + steps < 5:
+        elif data[1] == "down" and pr + steps < 5:
             checker = True
 
             for s in range(1, steps + 1):
-                if matrix[pr + s][pc] == ".":
-                    checker = True
-                else:
+                if matrix[pr + s][pc] != ".":
                     checker = False
                     break
 
             if checker:
                 matrix[pr][pc] = "."
-                matrix[pr + steps][pc] = "A"
                 pr += steps
+                matrix[pr][pc] = "A"
 
     else:
+
         if data[1] == "right":
             for h in range(1, 5 - pc):
                 if matrix[pr][pc + h] == "x":
@@ -118,12 +114,12 @@ for i in range(n):
     if target_count == 0:
         print(f"Training completed! All {final_target} targets hit.")
 
-        for item in shot_target_position:
-            print(item)
+        for target in shot_target_position:
+            print(target)
 
-        exit()
+        break
+else:
+    print(f"Training not completed! {target_count} targets left.")
 
-print(f"Training not completed! {target_count} targets left.")
-
-for item in shot_target_position:
-    print(item)
+    for target in shot_target_position:
+        print(target)

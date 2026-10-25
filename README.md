@@ -1,36 +1,44 @@
-# SoftUni Python Solutions
+# Python Learning Journey 🐍
 
-This repository contains all tasks and exercises solved by me during the complete Python learning path at SoftUni.
+Welcome to my Python learning repository!
 
-The goal of this repository is to document my learning journey, practice programming concepts, and provide examples that may help other students.
+I'm an aspiring Python Backend Developer, currently studying at **Software University (SoftUni)**.
 
-## Contents
+This repository documents my programming progress through exercises, practical problems, and course assignments.
 
-* Python Basics
-* Python Fundamentals
-* Python Advanced
-* Python OOP
-* Additional exercises and exams
-* Other related SoftUni tasks
+## 📚 Learning Path
 
-## Usage
+My Python studies cover topics such as:
 
-Feel free to use, copy, modify, or learn from any of the solutions in this repository.
+- Programming fundamentals and problem-solving
+- Data types, conditions, loops, and functions
+- Lists, dictionaries, sets, and tuples
+- Stacks, queues, and multidimensional lists
+- Functions Advanced
+- Iterators and generators
+- Error handling and file operations
 
-⚠️ All code is provided **as-is** and is used entirely at your own responsibility. While I strive to provide correct solutions, I cannot guarantee that every solution is optimal, up-to-date, or error-free.
+I'm continuing to expand my knowledge as I progress through the SoftUni curriculum.
 
-## Support
+## 🎯 My Goals
 
-If you find this repository useful:
+- Develop strong Python programming fundamentals
+- Improve algorithmic thinking and problem-solving
+- Learn to write clean, readable, and maintainable code
+- Build confidence in debugging and testing
+- Progress toward Python backend development with Django and PostgreSQL
 
-⭐ Leave a star
+## 💻 About the Code
 
-👤 Follow my profile
+This repository contains educational exercises and solutions from my Python learning journey.
 
-Both are greatly appreciated and motivate me to continue learning and sharing my work.
+The code reflects my progress over time, including earlier solutions that I may approach differently as my skills improve.
 
-## Disclaimer
+## 🔗 Connect
 
-These solutions are intended for educational purposes only. Please use them to learn and improve your programming skills rather than simply copying them for assignments.
+- [GitHub Profile](https://github.com/RubenARCore)
+- [LinkedIn](https://www.linkedin.com/in/ruben-yordanov-bb84142b0/)
 
-Happy coding! 🚀
+---
+
+*Learning step by step, one Python problem at a time.*

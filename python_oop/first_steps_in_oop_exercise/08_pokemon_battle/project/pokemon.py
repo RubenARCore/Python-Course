@@ -4,7 +4,7 @@ class Pokemon:
         self.health = health
 
     def pokemon_details(self):
-        return f"{self.name} with health {self.name}"
+        return f"{self.name} with health {self.health}"
 
 
 
